@@ -6,6 +6,7 @@ Requirements:
 * openssh server - https://www.reddit.com/r/jailbreak/comments/5r2mwr/tutorial_how_to_use_dropbear_ssh_via_usb_on/
 * cynject - from https://github.com/simpzan/cycript
 * Clutch to decrypt the SecurID app - http://digitalforensicstips.com/2015/05/a-quick-guide-to-using-clutch-2-0-to-decrypt-ios-apps/
+* activator so the app can be launched by the script - http://cydia.saurik.com/package/libactivator/
 * a file containing the pin to be entered to the app - stored in $HOME/.gettoken using the format "pin=1234"
 
 Optional:
